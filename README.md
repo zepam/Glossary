@@ -8,3 +8,5 @@ Repository to collect important concepts
 **Regression Analysis**: Statistical processes for estimating the relationships between a dependent variable and one or more independent variables.
 
 **Black box**: The inability to undestand how a deep learning system makes its decisions.
+
+**Deep Learning**: neural networks with multiple layers, allowing complex patterns and representations to be learned from large datasets.

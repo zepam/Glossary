@@ -10,3 +10,5 @@ Repository to collect important concepts
 **Black box**: The inability to undestand how a deep learning system makes its decisions.
 
 **Deep Learning**: neural networks with multiple layers, allowing complex patterns and representations to be learned from large datasets.
+
+** Signal ** The part of the data you want to study/explore. Datasets must sometimes be denoised in order to pull out what you want.

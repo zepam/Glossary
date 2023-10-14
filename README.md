@@ -11,4 +11,4 @@ Repository to collect important concepts
 
 **Deep Learning**: neural networks with multiple layers, allowing complex patterns and representations to be learned from large datasets.
 
-** Signal ** The part of the data you want to study/explore. Datasets must sometimes be denoised in order to pull out what you want.
+**Signal** The part of the data you want to study/explore. Datasets must sometimes be denoised in order to pull out what you want.

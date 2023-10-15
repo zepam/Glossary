@@ -13,4 +13,4 @@ Repository to collect important concepts
 
 **Signal** The part of the data you want to study/explore. Datasets must sometimes be denoised in order to pull out what you want.
 
-**Local model interpretation** set of techniques aimed at evaluating why a model makes a specific prediction and what effect a specific feature value has on the prediction. 
+**Local model interpretation:** set of techniques aimed at evaluating why a model makes a specific prediction and what effect a specific feature value has on the prediction. 

@@ -20,3 +20,5 @@ Repository to collect important concepts
 **Structured Data**: data organized in a specific format, such as position (lat, long) information or physical measurements.
 
 **Unstructured Data**: data that are not organized in a specific format and require more complex methods for automated interpretation. Examples include images, papers, books, audio files etc.
+
+**Data modality:** The simplest structure in which your data can be described (e.g., row-column, multi-dimensional, raster/image). 

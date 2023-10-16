@@ -18,3 +18,5 @@ Repository to collect important concepts
 **Data Mining:** Analyzing raw data to extract useful information and find patterns.
 
 **Structured Data**: data organized in a specific format, such as position (lat, long) information or physical measurements.
+
+**Unstructured Data**: data that are not organized in a specific format and require more complex methods for automated interpretation. Examples include images, papers, books, audio files etc.

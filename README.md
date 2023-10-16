@@ -22,3 +22,5 @@ Repository to collect important concepts
 **Unstructured Data**: data that are not organized in a specific format and require more complex methods for automated interpretation. Examples include images, papers, books, audio files etc.
 
 **Data modality:** The simplest structure in which your data can be described (e.g., row-column, multi-dimensional, raster/image). 
+
+**K Means Clustering** A machine learning algorithm for grouping variables that partitions the signals of interest by their behavior/patterns. This is an example of an unsupervised machine learning model. 

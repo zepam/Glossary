@@ -16,3 +16,5 @@ Repository to collect important concepts
 **Local model interpretation:** set of techniques aimed at evaluating why a model makes a specific prediction and what effect a specific feature value has on the prediction. 
 
 **Data Mining:** Analyzing raw data to extract useful information and find patterns.
+
+**Structured Data**: data organized in a specific format, such as position (lat, long) information or physical measurements.

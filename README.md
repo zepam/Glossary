@@ -24,3 +24,5 @@ Repository to collect important concepts
 **Data modality:** The simplest structure in which your data can be described (e.g., row-column, multi-dimensional, raster/image). 
 
 **K Means Clustering** A machine learning algorithm for grouping variables that partitions the signals of interest by their behavior/patterns. This is an example of an unsupervised machine learning model. 
+
+**Logistic Regression** A statistical model used for classification, prediction, and probability of an event happening given a dataset.

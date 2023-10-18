@@ -1,5 +1,6 @@
 # Glossary
-Repository to collect important concepts
+
+Here, we collect definitions of important concepts
 
 **Random forest**: A machine learning algorithm for classification, regression and other tasks that operates by constructing a multitude of decision trees (during training) to generate a single result.
 
@@ -26,3 +27,9 @@ Repository to collect important concepts
 **K Means Clustering** A machine learning algorithm for grouping variables that partitions the signals of interest by their behavior/patterns. This is an example of an unsupervised machine learning model. 
 
 **Logistic Regression:** A statistical model used for classification given a dataset. Provides a discrete output.
+
+**Node:** refers to computing unit a single CPU with multiple cores, a dedicated memory, and a dedicated storage. Terminology used in high performance computing (HPC).
+
+**Instance:** refers to a computing unit, like a node. Terminology used in Cloud.
+
+**Core:** a processing unit of a CPU or GPU that performs the tasks.

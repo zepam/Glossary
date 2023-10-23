@@ -38,3 +38,4 @@ Here, we collect definitions of important concepts
 
 ![image](https://github.com/UW-ESS-DS/Glossary/assets/56406566/7477fad4-895e-4a42-97b6-40b3bcc2bf0a)
 
+**Feature Engineering** Manipulating raw data to select specific features within the data.  Also referred to as feature extraction or feature discovery.  A feature, sometimes used interchangably with the term variable, can be a characteristic, property, attribute, etc. within the raw data.

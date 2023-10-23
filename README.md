@@ -33,3 +33,8 @@ Here, we collect definitions of important concepts
 **Instance:** refers to a computing unit, like a node. Terminology used in Cloud.
 
 **Core:** a processing unit of a CPU or GPU that performs the tasks.
+
+**Dimensionality Reduction:** A data transformation technique where high-dimensionality data is converted to lower-dimensionality data while preserving as much meaningful structure in the data as possible to address the curse of dimensionality and improve data visualization, interpretation, clustering, and other processing (ex. machine learning). 
+
+![image](https://github.com/UW-ESS-DS/Glossary/assets/56406566/7477fad4-895e-4a42-97b6-40b3bcc2bf0a)
+

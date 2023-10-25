@@ -49,3 +49,5 @@ Here, we collect definitions of important concepts
 **Underfitting:** Occurs when a machine learning model is too simple to capture the underlying patterns in the training data, resulting in poor performance on both the training and testing data.
 
 **Auto-encoders:** Neural networks that can efficiently compress and encode data, and then use that encoding to reconstruct the original data as accurately as possible, which can reduce the input data dimensionality. 
+
+**Noise:** In the collected data noise is anything that is unwanted or adds difficulty for the model to interpret within said data.

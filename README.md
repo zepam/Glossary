@@ -41,3 +41,8 @@ Here, we collect definitions of important concepts
 **Feature Engineering:** Manipulating raw data to select specific features from within the data.  Also referred to as feature extraction or feature discovery.  A feature, sometimes used interchangably with the term variable, can be a characteristic, property, attribute, etc. within the raw data.
 
 **Deep Learning:** A subfield in machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher level features from data.
+
+**Cross-Validation:** This involves splitting of your data into smaller groups to train and test your model. It helps check how well your model works on different data and prevents it from overfitting.
+
+**Overfitting:** It occurs when a model learns to perform exceptionally well on the training data but struggles to generalize its performance to new, unseen data.
+

@@ -46,3 +46,4 @@ Here, we collect definitions of important concepts
 
 **Overfitting:** It occurs when a model learns to perform exceptionally well on the training data but struggles to generalize its performance to new, unseen data.
 
+**Underfitting:** Occurs when a machine learning model is too simple to capture the underlying patterns in the training data, resulting in poor performance on both the training and testing data.

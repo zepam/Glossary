@@ -55,3 +55,5 @@ Here, we collect definitions of important concepts
 **Convolutional Neural Network:** a deep learning algorithm that takes an input image and assigns weights to be able to diferrentiate other images from each other.  
 
 **Hyperparameters:** Common in Bayesian statistics, they are values to control the learning process and the outcome values of the machine learning training algorithm.
+
+**Resampling:** The process of repeatedly generating new samples from training data in order to understand uncrertenties in the data being used.

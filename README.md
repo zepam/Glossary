@@ -52,4 +52,6 @@ Here, we collect definitions of important concepts
 
 **Noise:** In the collected data noise is anything that is unwanted or adds difficulty for the model to interpret within said data.
 
-**Convolutional Neural Network:** a deep learning algorithm that takes an input image and assigns weights to be able to diferrentiate other images from each other.
+**Convolutional Neural Network:** a deep learning algorithm that takes an input image and assigns weights to be able to diferrentiate other images from each other.  
+
+**Hyperparameters:** Common in Bayesian statistics, they are values to control the learning process and the outcome values of the machine learning training algorithm.

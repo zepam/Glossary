@@ -51,3 +51,5 @@ Here, we collect definitions of important concepts
 **Auto-encoders:** Neural networks that can efficiently compress and encode data, and then use that encoding to reconstruct the original data as accurately as possible, which can reduce the input data dimensionality. 
 
 **Noise:** In the collected data noise is anything that is unwanted or adds difficulty for the model to interpret within said data.
+
+**Convolutional Neural Network:** a deep learning algorithm that takes an input image and assigns weights to be able to diferrentiate other images from each other.

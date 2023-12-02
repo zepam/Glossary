@@ -2,6 +2,8 @@
 
 Here, we collect definitions of important concepts
 
+**Features**: A 'feature' is any attribute of a dataset that represents (tangible or intangible) information about it. The term can be used broadly whereever relational properties about the dataset are relevant or represented as values, series, matrices, etc.. As such, a feature could be a single datapoint, a measurement series, a statistical property of the data (or a subset thereof), a pattern in the data represented by a 'filter,' a weight or bias, etc. In linear algebra terms, a feature is representable as a dimension of a subspace of the vector space of the data.
+
 **Random forest**: A machine learning algorithm for classification, regression and other tasks that operates by constructing a multitude of decision trees (during training) to generate a single result.
 
 **Data dimensionality**: Dimensionality of data refers to the number of properties or categories in a dataset

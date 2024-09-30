@@ -59,3 +59,5 @@ Here, we collect definitions of important concepts
 **Resampling:** The process of repeatedly generating new samples from training data in order to understand uncrertenties in the data being used.
 
 **Bootstrapping**: Bootstrapping is a resampling technique in statistics where multiple random samples are drawn with replacement from a single dataset. This method is employed to estimate the sampling distribution of a statistic and assess its variability.
+
+**Data Augmentation**: Data augmentation is the process of generating new, artifical data from existing data. This is commonly used to increase the size of a training dataset in ML (ie. rotating input images in a data segmentation pipeline)

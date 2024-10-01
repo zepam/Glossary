@@ -65,3 +65,5 @@ Here, we collect definitions of important concepts
 **Fuzzy Logic** : A logic system often used in machine learning, where results can be on a spectrum from correct or wrong, rather than entirely one or the other. Fuzzy Logic is particularly well-suited for use with noisy data.
 
 **Neural network**: Is a computational model that mimics how the human brain works, using layers of connected nodes (or neurons) to learn from data and perform tasks like recognizing patterns and making predictions.
+
+**Contrastive Learning**: A deep learning technique where similar patterns detected in the data are pushed close together in a representation space, while dissimilar patterns are pushed far apart.

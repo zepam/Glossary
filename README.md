@@ -71,3 +71,5 @@ Here, we collect definitions of important concepts
 **Activation Function**: A user-implemented function that provides a nonlinear learning aspect of an algorithm between inputs and outputs.
 
 **Clustering**: An unsupervised ML method that groups unlabelled data together by finding how similar/different different pieces of data are to each other. 
+
+**Gradient Descent**: An optimization algorithm used to minimize the loss function in machine learning models by iteratively adjusting the model parameters in the direction of the steepest descent of the loss function.

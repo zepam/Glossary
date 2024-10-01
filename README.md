@@ -69,3 +69,5 @@ Here, we collect definitions of important concepts
 **Contrastive Learning**: A deep learning technique where similar patterns detected in the data are pushed close together in a representation space, while dissimilar patterns are pushed far apart.
 
 **Activation Function**: A user-implemented function that provides a nonlinear learning aspect of an algorithm between inputs and outputs.
+
+**Clustering**: An unsupervised ML method that groups unlabelled data together by finding how similar/different different pieces of data are to each other. 

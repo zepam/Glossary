@@ -61,3 +61,5 @@ Here, we collect definitions of important concepts
 **Bootstrapping**: Bootstrapping is a resampling technique in statistics where multiple random samples are drawn with replacement from a single dataset. This method is employed to estimate the sampling distribution of a statistic and assess its variability.
 
 **Fuzzy Logic** : A logic system often used in machine learning, where results can be on a spectrum from correct or wrong, rather than entirely one or the other. Fuzzy Logic is particularly well-suited for use with noisy data.
+
+**Neural network**: Is a computational model that mimics how the human brain works, using layers of connected nodes (or neurons) to learn from data and perform tasks like recognizing patterns and making predictions.

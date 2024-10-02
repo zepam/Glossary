@@ -75,3 +75,5 @@ Here, we collect definitions of important concepts
 **Gradient Descent**: An optimization algorithm used to minimize the loss function in machine learning models by iteratively adjusting the model parameters in the direction of the steepest descent of the loss function.
 
 **Benchmark Dataset**: A dataset or data archive which is used to train the algorithm in machine learning.
+
+**Physics-Informed Neural Networks**: Training of a neural network that is physis-agnostic at initial design, but constraining the predictions to obey physical law by crafting the loss function accordingly.

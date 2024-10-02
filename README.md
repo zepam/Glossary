@@ -73,3 +73,5 @@ Here, we collect definitions of important concepts
 **Clustering**: An unsupervised ML method that groups unlabelled data together by finding how similar/different different pieces of data are to each other. 
 
 **Gradient Descent**: An optimization algorithm used to minimize the loss function in machine learning models by iteratively adjusting the model parameters in the direction of the steepest descent of the loss function.
+
+**Benchmark Dataset**: A dataset or data archive which is used to train the algorithm in machine learning.

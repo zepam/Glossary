@@ -83,3 +83,5 @@ Here, we collect definitions of important concepts
 **Kernel methods**: ML algorithms that use functions called kernels to project data into higher dimensional space. They are especially useful for pattern analysis of data that is not linearly separable. 
 
 **Big O notation**: A mathematical concept used in computer science to describe the performance or complexity of an algorithm's runtime or memory usage as the input size (denoted as n) becomes large.
+
+**Batch Normalization**: In deep learning, each step (or batch) of model training must be normalized to have zero mean and unit variance. This prevents numerically large features from dominating the training process.

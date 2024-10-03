@@ -87,3 +87,5 @@ Here, we collect definitions of important concepts
 **Big O notation**: A mathematical concept used in computer science to describe the performance or complexity of an algorithm's runtime or memory usage as the input size (denoted as n) becomes large.
 
 **Batch Normalization**: In deep learning, each step (or batch) of model training must be normalized to have zero mean and unit variance. This prevents numerically large features from dominating the training process.
+
+**Ablation**: A technique for evaluating the importance of a feature or component by temporarily removing it from a model. Can also be used to determine the importance of a subsystem of a larger model. 

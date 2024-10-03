@@ -91,3 +91,5 @@ Here, we collect definitions of important concepts
 **Ablation**: A technique for evaluating the importance of a feature or component by temporarily removing it from a model. Can also be used to determine the importance of a subsystem of a larger model. 
 
 **Dropout**: The process of randomly setting a fraction of input units in a neural network to zero to prevent overfitting by breaking up situations where network layers co-adapt to correct mistakes in prior layers. This increases the neural network's ability to generalize to new data.
+
+**Supervised Learning** a type of machine learning where a model is trained on labeled data, meaning the input data is paired with the correct output, and the model learns to make predictions or classify new, unseen data based on this training.

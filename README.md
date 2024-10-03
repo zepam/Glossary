@@ -82,4 +82,4 @@ Here, we collect definitions of important concepts
 
 **Kernel methods**: ML algorithms that use functions called kernels to project data into higher dimensional space. They are especially useful for pattern analysis of data that is not linearly separable. 
 
-**Big O notation**: A mathematical concept used in computer science to describe the performance or complexity of an algorithm's runtime or memory usage as the input size (denoted as n) becomes large
+**Big O notation**: A mathematical concept used in computer science to describe the performance or complexity of an algorithm's runtime or memory usage as the input size (denoted as n) becomes large.

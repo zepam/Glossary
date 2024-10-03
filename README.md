@@ -89,3 +89,5 @@ Here, we collect definitions of important concepts
 **Batch Normalization**: In deep learning, each step (or batch) of model training must be normalized to have zero mean and unit variance. This prevents numerically large features from dominating the training process.
 
 **Ablation**: A technique for evaluating the importance of a feature or component by temporarily removing it from a model. Can also be used to determine the importance of a subsystem of a larger model. 
+
+**Dropout**: The process of randomly setting a fraction of input units in a neural network to zero to prevent overfitting by breaking up situations where network layers co-adapt to correct mistakes in prior layers. This increases the neural network's ability to generalize to new data.

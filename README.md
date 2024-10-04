@@ -103,3 +103,5 @@ Here, we collect definitions of important concepts
 **Random Forest**: an ensemble ML algorithm that combines multiple decision trees to create a more robust and accurate model for both classification and regression tasks.
 
 **Auto-Encoders**: neural networks that learn to efficiently compress and encode data then learn to reconstruct the data back from the reduced encoded representation to a representation that is as close to the original input as possible.
+
+**Inference**: when a trained model is used to infer (predict) values using live data.

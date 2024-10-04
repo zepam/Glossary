@@ -6,6 +6,8 @@ Here, we collect definitions of important concepts
 
 **Random forest**: A machine learning algorithm for classification, regression and other tasks that operates by constructing a multitude of decision trees (during training) to generate a single result.
 
+**Training**:  It is important to train models using appropriate and enough data otherwise the results may be questionabe.
+
 **Data dimensionality**: Dimensionality of data refers to the number of properties or categories in a dataset
 
 **Regression Analysis**: Statistical processes for estimating the relationships between a dependent variable and one or more independent variables.

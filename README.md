@@ -113,3 +113,5 @@ Here, we collect definitions of important concepts
 **Bias-Variance Tradeoff**: It implies that as we increase the complexity of a model, its variance decreases, and its bias increases. Conversely, as we decrease the model's complexity, its variance increases, but its bias decreases.
 
 **Linear Regression**: A type of supervised learning algorithm that optimizes a linear function to data points. 
+
+**Gradient Boosting**: A machine learning technique used for regression and classification tasks that builds an ensemble of weak learners, typically decision trees, where each new model corrects the errors of the previous ones in an iterative manner.

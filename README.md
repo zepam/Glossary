@@ -109,3 +109,5 @@ Here, we collect definitions of important concepts
 **Regularization**: techniques that help prevent overfitting in machine learning models by adding a penalty for complexity, ensuring better generalization to unseen data.
 
 **Random Forest**: a machine learning algorithm that combines the output of multiple decision trees into a single result.
+
+**Bias-Variance Tradeoff**: It implies that as we increase the complexity of a model, its variance decreases, and its bias increases. Conversely, as we decrease the model's complexity, its variance increases, but its bias decreases.

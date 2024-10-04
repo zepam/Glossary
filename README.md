@@ -95,3 +95,5 @@ Here, we collect definitions of important concepts
 **Supervised Learning** a type of machine learning where a model is trained on labeled data, meaning the input data is paired with the correct output, and the model learns to make predictions or classify new, unseen data based on this training.
 
 **Decision Trees**: supervised learning that is used in statistics and machine learning that can do different "tasks" such as classification trees or regression trees, however they can sometimes be too broad when determining what fits their qualifications. 
+
+**Unsupervised Learning**: a category of machine learning where models are trained using unlabeled data to make connections between that data.

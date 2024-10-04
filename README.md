@@ -107,3 +107,5 @@ Here, we collect definitions of important concepts
 **Inference**: when a trained model is used to infer (predict) values using live data.
 
 **Regularization**: techniques that help prevent overfitting in machine learning models by adding a penalty for complexity, ensuring better generalization to unseen data.
+
+**Random Forest**: a machine learning algorithm that combines the output of multiple decision trees into a single result.

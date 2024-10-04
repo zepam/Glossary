@@ -97,3 +97,5 @@ Here, we collect definitions of important concepts
 **Decision Trees**: supervised learning that is used in statistics and machine learning that can do different "tasks" such as classification trees or regression trees, however they can sometimes be too broad when determining what fits their qualifications. 
 
 **Unsupervised Learning**: a category of machine learning where models are trained using unlabeled data to make connections between that data.
+
+**Random Forest**: an ensemble ML algorithm that combines multiple decision trees to create a more robust and accurate model for both classification and regression tasks.

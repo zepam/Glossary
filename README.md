@@ -111,3 +111,5 @@ Here, we collect definitions of important concepts
 **Random Forest**: a machine learning algorithm that combines the output of multiple decision trees into a single result.
 
 **Bias-Variance Tradeoff**: It implies that as we increase the complexity of a model, its variance decreases, and its bias increases. Conversely, as we decrease the model's complexity, its variance increases, but its bias decreases.
+
+**Linear Regression**: A type of supervised learning algorithm that optimizes a linear function to data points. 

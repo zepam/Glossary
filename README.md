@@ -93,3 +93,5 @@ Here, we collect definitions of important concepts
 **Dropout**: The process of randomly setting a fraction of input units in a neural network to zero to prevent overfitting by breaking up situations where network layers co-adapt to correct mistakes in prior layers. This increases the neural network's ability to generalize to new data.
 
 **Supervised Learning** a type of machine learning where a model is trained on labeled data, meaning the input data is paired with the correct output, and the model learns to make predictions or classify new, unseen data based on this training.
+
+**Decision Trees**: supervised learning that is used in statistics and machine learning that can do different "tasks" such as classification trees or regression trees, however they can sometimes be too broad when determining what fits their qualifications. 
